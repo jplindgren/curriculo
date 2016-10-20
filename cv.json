@@ -1,0 +1,162 @@
+{
+  "basics": {
+    "name": "Joao Paulo Pozo Lindgren",
+    "label": "Programmer",
+    "picture": "https://s.gravatar.com/avatar/eab784756e1eb0753b89565ffec8a951?s=100",
+    "email": "joaopozo@gmail.com",
+    "phone": "~",
+    "website": "http://jplindgren.blogspot.com.br",
+    "summary": "Experienced .Net developer lifelong learner, striving to always get better learning new techniques and technologies. I do not seek it just because it is my job, but because it is my passion. I am interested in SOLID principles, TDD, DDD, CQRS, Javascript as whole and functional programming techniques.",
+    "location": {
+      "address": "~",
+      "postalCode": "24220-001",
+      "city": "Niteroi",
+      "countryCode": "BR",
+      "region": "Rio de Janeiro"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "@joaopozo",
+      "url": "https://twitter.com/joaopozo"
+    },
+    {
+      "network": "Github",
+      "username": "jplindgren",
+      "url": "https://github.com/jplindgren"
+    },
+    {
+      "network": "Stackoverflow",
+      "username": "jplindgren",
+      "url": "http://stackoverflow.com/users/2497411/jplindgren"
+    }]
+  },
+  "work": [{
+    "company": "Modulo Security",
+    "position": "Senior Developer",
+    "website": "http://www.modulo.com.br/",
+    "startDate": "2014-08-11",
+    "endDate": "",
+    "summary": "Senior .net developer with full stack role in several areas of a GRC software product. Lately one of the leaders of the feature team with focus on deliveries and high quality tests of our software API.",
+    "highlights": [
+      "Lead the API team to a new release of the product",
+      "Called to integrate the team that worked in the 2016 Olympics Games solution",
+      "Still in workflow team, created togheter with the team the first 'NoSql like' solution using apache lucene as solution (our company has several restrictions installing software at some customers)",
+      "Started as a member of the workflow module team, reworking the module front-end from a asp.net web form to a javascript/json focused page calling api endpoints"
+    ]
+  },
+  {
+    "company": "Fundação Getúlio Vargas (FGV)",
+    "position": "Senior Developer",
+    "website": "http://portal.fgv.br/",
+    "startDate": "2012-03-02",
+    "endDate": "2014-08-05",
+    "summary": "FGV is one the best universities of the country and i worked as Senior asp.net developer in software that managed the financial and academic information of students of the institution."
+  }],
+  "education": [{
+    "institution": "University Estácio de Sá",
+    "area": "Information Technology",
+    "studyType": "Bachelor",
+    "startDate": "2004-03-01",
+    "endDate": "2009-06-01"
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Node"
+    ]
+  },
+  {
+    "name": "Asp.net",
+    "level": "Master",
+    "keywords": [
+      "WebApi",
+      "WebForms"
+    ]
+  },
+  {
+    "name": "C#",
+    "level": "Master",
+    "keywords": [
+      "Linq",
+      "OO",
+      "Design Patterns"
+    ]
+  },
+  {
+    "name": "API",
+    "level": "Master",
+    "keywords": [
+      "WebApi",
+      "OData",
+      "Integration Tests",
+      "JSON"
+    ]
+  },
+  {
+    "name": "Best Practices",
+    "level": "Master",
+    "keywords": [
+      "SOLID Principles",
+      "Design Patterns"
+    ]
+  }
+  {
+    "name": "TDD",
+    "level": "Good",
+    "keywords": [
+      "Xunit",
+      "MSTests",
+      "AutoFixture",
+      "NSubstitute"
+    ]
+  },
+  {
+    "name": "Functonal Programming",
+    "level": "Learning",
+    "keywords": [
+      "Ramda.js",
+      "F#",
+      "functionaljs",
+      "Linq"
+    ]
+  }],
+  "languages": [{
+    "name": "Portuguese",
+    "level": "Native Speaker"
+  },
+  {
+    "name": "English",
+    "level": "Good"
+  }],
+  "interests": [{
+    "name": "Games",
+    "keywords": [
+      "Starcraft",
+      "FPS"
+    ]
+  },
+  {
+    "name": "Travel around the world",
+    "keywords": [
+      "South America",
+      "Europe",
+      "North America"
+    ]
+  },
+  {
+    "name": "Sports",
+    "keywords": [
+      "Football",
+      "American Football",
+      "Basketball"
+    ]
+  },
+  {
+    "name": "Beer",
+    "keywords": [ "Weizenbier" ]
+  }]
+}
